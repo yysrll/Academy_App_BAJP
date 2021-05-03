@@ -9,7 +9,6 @@ import androidx.test.espresso.matcher.ViewMatchers.*
 import androidx.test.ext.junit.rules.ActivityScenarioRule
 import com.yusril.academy.R
 import com.yusril.academy.utils.DataDummy
-import org.junit.Assert.*
 import org.junit.Rule
 import org.junit.Test
 
